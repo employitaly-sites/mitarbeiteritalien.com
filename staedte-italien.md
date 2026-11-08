@@ -1,0 +1,10 @@
+# Mitarbeiter in italienischen Städten
+
+> Städteleitfäden für Unternehmen aus Deutschland, Österreich und der Schweiz, die in Mailand, Rom, Turin, Bologna und Neapel einstellen: Branchen, Hochschulen, lokale Steuern und praktische Hinweise.
+
+
+<section> <span class="eyebrow">Einstellen nach Stadt</span> <h1 id="wo-sie-in-italien-einstellen">Wo Sie in Italien einstellen</h1> <p class="lede">Jede Stadt hat ihre eigenen Branchen, Hochschulen und lokalen Einkommensteuern. Für DACH-Unternehmen zählen oft zusätzlich die Nähe zu Kunden und Zulieferern im Norden und die Verbindung über die Alpen.</p> </section> <section class="grid"> <a class="panel" href="mitarbeiter-mailand.html"><h3 id="mailand">Mailand</h3><p>Finanzen, Mode, Industrie und Tech. Höchste Freigrenze der Gemeinde (23.000 €) und ein Satz von 0,8 %.</p></a> <a class="panel" href="mitarbeiter-turin.html"><h3 id="turin">Turin</h3><p>Automobil und Zulieferer, Luft- und Raumfahrt, Engineering. Progressiver Gemeindezuschlag von 0,8 % bis 1,2 %.</p></a> <a class="panel" href="mitarbeiter-bologna.html"><h3 id="bologna">Bologna</h3><p>Maschinenbau, Motorenmarken und Lebensmittel. Niedriger Gemeindezuschlag von 0,8 %, gutes Netto.</p></a> <a class="panel" href="mitarbeiter-rom.html"><h3 id="rom">Rom</h3><p>Öffentlicher Sektor, Energie und Telekommunikation. Regionalzuschlag Latium bis 3,33 % über 28.000 €.</p></a> <a class="panel" href="mitarbeiter-neapel.html"><h3 id="neapel">Neapel</h3><p>Luft- und Raumfahrt, Schifffahrt und Entwickler. Niedrigere Lebenshaltung, höchster Gemeindezuschlag (1,0 %).</p></a> </section> <section class="prose"> <h2 id="suedtirol-und-der-nordosten">Südtirol und der Nordosten</h2>  <p>Die lokalen Steuersätze stammen aus Sekundärquellen, gelesen am 27. Oktober 2026, und sind auf jeder Seite gekennzeichnet.</p> <div class="cta"><a class="btn" href="kosten-rechner.html">Zum Kostenrechner</a><a class="btn ghost" href="kontakt.html">Angebot anfordern</a></div> </section>
+
+
+---
+Source: https://mitarbeiteritalien.com/staedte-italien.html
